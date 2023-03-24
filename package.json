@@ -1,0 +1,14 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours application",
+  "main": "index.js",
+  "scripts": {
+    "compile:uche": "node-sass sass/main.scss css/style.css -w"
+  },
+  "author": "Arich",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^8.0.0"
+  }
+}
